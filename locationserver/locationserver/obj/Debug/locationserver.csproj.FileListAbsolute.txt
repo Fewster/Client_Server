@@ -1,0 +1,83 @@
+S:\University\Year2\Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+S:\University\Year2\Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+S:\University\Year2\Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+S:\University\Year2\Networking\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+S:\University\Year2\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+S:\University\Year2\Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+S:\University\Year2\Networking\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\bin\Debug\locationserver.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\dtfew\Desktop\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\dtfew\Desktop\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\dtfew\Desktop\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\dtfew\Desktop\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\dtfew\Desktop\locationserver\locationserver\bin\Debug\locationserver.pdb
+S:\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+S:\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+S:\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\serverGUI.g.cs
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\serverGUI.baml
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.g.resources
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+S:\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\serverGUI.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\serverGUI.baml
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.g.resources
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.baml
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.g.resources
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.g.cs
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.baml
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.g.resources
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.g.cs
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\serverGUI.baml
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.g.resources
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+S:\DanFewster_Networking_and_Interface_ACW\locationserver\locationserver\obj\Debug\locationserver.pdb

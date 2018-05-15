@@ -1,0 +1,57 @@
+﻿<Window x:Class="location.AdvSettings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:location"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500"
+            ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="175,100,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Username" HorizontalAlignment="Left" Height="23" Margin="175,120,0,0" TextWrapping="Wrap" Text="{Binding bUsername}" VerticalAlignment="Top" Width="150" BorderBrush="Black"/>
+
+        <Label Content="Location" HorizontalAlignment="Left" Margin="175,140,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Location" HorizontalAlignment="Left" Height="23" Margin="175,160,0,0" TextWrapping="Wrap" Text="{Binding bLocale, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="150" BorderBrush="Black"/>
+
+        <Button Name="NonAdvSettings" Content="^" HorizontalAlignment="Left" Margin="10,421,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="Black" Click="NonAdvSetting_Click" OpacityMask="White" BorderBrush="Black" Background="#FFC78930" FontWeight="Bold" FontSize="20"/>
+
+        <Label Name="inputLabel" Content="" HorizontalAlignment="Left" Margin="40,64,0,0" VerticalAlignment="Top" Width="412"/>
+
+        <RadioButton GroupName="Prot" Content="HTTP/0.9" HorizontalAlignment="Left" Margin="332,284,0,0" VerticalAlignment="Top" Checked="Checked_h9" Unchecked="Unchecked_h9"/>
+        <RadioButton GroupName="Prot" Content="HTTP/1.0" HorizontalAlignment="Left" Margin="332,299,0,0" VerticalAlignment="Top" Checked="Checked_h0" Unchecked="Unchecked_h0"/>
+        <RadioButton GroupName="Prot" Content="HTTP/1.1" HorizontalAlignment="Left" Margin="332,314,0,0" VerticalAlignment="Top" Checked="Checked_h1" Unchecked="Unchecked_h1"/>
+        <RadioButton GroupName="Prot" Content="WhoIs" HorizontalAlignment="Left" Margin="332,329,0,0" VerticalAlignment="Top" IsChecked="True"/>
+
+        <CheckBox Name="Debug" Content="Debug Mode" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Checked="Checked_dM" Unchecked="Unchecked_dM">
+        </CheckBox>
+
+        <Label Content="Port Number" HorizontalAlignment="Left" Margin="40,201,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Port" Text="{Binding bPort, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Height="23" Margin="40,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+
+        <Label Content="IP Address" HorizontalAlignment="Left" Margin="186,201,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="IP" Text="{Binding bIPAddress, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Height="23" Margin="186,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+
+        <Label Content="Timeout Count" HorizontalAlignment="Left" Margin="332,201,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Timeout" Text="{Binding bTimeoutCount, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Height="23" Margin="332,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+
+        <Label Content="Optional Headers" HorizontalAlignment="Left" Margin="186,258,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="OptionalHeaders" Text="{Binding bOptionalHeaders, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Height="65" Margin="186,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+
+        <Button Name="SubmitButton" Content="Submit" HorizontalAlignment="Left" Margin="215,349,0,0" VerticalAlignment="Top" Width="70" Click="SubmitButton_Click" BorderBrush="Black">
+            <Button.Background>
+                <SolidColorBrush Color="#FF618B4E"/>
+            </Button.Background>
+        </Button>
+
+        <Button Name="CheckLocButton" Content="Check Location" HorizontalAlignment="Left" Margin="330,120,0,0" VerticalAlignment="Top" Width="91" Click="CheckLocButton_Click" BorderBrush="Black" Height="23">
+            <Button.Background>
+                <SolidColorBrush Color="#FFC96A6A"/>
+            </Button.Background>
+        </Button>
+
+        <Label Content="Show Less" HorizontalAlignment="Left" Margin="37,428,0,0" VerticalAlignment="Top" FontSize="10"/>
+
+        <Label Content="A Location Client - By Dan Fewster" HorizontalAlignment="Left" Margin="188,437,0,0" VerticalAlignment="Top" FontSize="6"/>
+    </Grid>
+</Window>

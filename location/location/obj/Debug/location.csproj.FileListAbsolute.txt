@@ -1,0 +1,108 @@
+C:\Users\Dan\source\repos\location\location\bin\Debug\location.exe.config
+C:\Users\Dan\source\repos\location\location\bin\Debug\location.exe
+C:\Users\Dan\source\repos\location\location\bin\Debug\location.pdb
+C:\Users\Dan\source\repos\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\location\location\obj\Debug\location.exe
+C:\Users\Dan\source\repos\location\location\obj\Debug\location.pdb
+S:\University\Year2\Networking\location\location\bin\Debug\location.exe.config
+S:\University\Year2\Networking\location\location\bin\Debug\location.exe
+S:\University\Year2\Networking\location\location\bin\Debug\location.pdb
+S:\University\Year2\Networking\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+S:\University\Year2\Networking\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+S:\University\Year2\Networking\location\location\obj\Debug\location.exe
+S:\University\Year2\Networking\location\location\obj\Debug\location.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.exe.config
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.exe
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.exe
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\bin\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\clientGUI.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location_MarkupCompile.cache
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\clientGUI.baml
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location.g.resources
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location_Content.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\AdvSettings.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\location_MarkupCompile.lref
+D:\University\Year2\08140 - Networking and User Interfaces\location\location\obj\Debug\AdvSettings.baml
+S:\location\location\bin\Debug\location.exe.config
+S:\location\location\bin\Debug\location.exe
+S:\location\location\bin\Debug\location.pdb
+S:\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+S:\location\location\obj\Debug\clientGUI.baml
+S:\location\location\obj\Debug\clientGUI.g.cs
+S:\location\location\obj\Debug\AdvSettings.g.cs
+S:\location\location\obj\Debug\location_Content.g.cs
+S:\location\location\obj\Debug\location_MarkupCompile.cache
+S:\location\location\obj\Debug\location_MarkupCompile.lref
+S:\location\location\obj\Debug\AdvSettings.baml
+S:\location\location\obj\Debug\location.g.resources
+S:\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+S:\location\location\obj\Debug\location.exe
+S:\location\location\obj\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\bin\Debug\location.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\bin\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\bin\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\clientGUI.baml
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\clientGUI.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\AdvSettings.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location_Content.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location_MarkupCompile.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location_MarkupCompile.lref
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\AdvSettings.baml
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location.g.resources
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\Networking and Interface ACW\location\location\obj\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe.config
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.pdb
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.baml
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_Content.g.cs
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.lref
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.baml
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.g.resources
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.exe
+D:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe.config
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.pdb
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.baml
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.g.cs
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.g.cs
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_Content.g.cs
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.cache
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.lref
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.baml
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.g.resources
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.exe
+E:\University\Year2\08140 - Networking and User Interfaces\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.pdb
+S:\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe.config
+S:\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.exe
+S:\DanFewster_Networking_and_Interface_ACW\location\location\bin\Debug\location.pdb
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.baml
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\clientGUI.g.cs
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.g.cs
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_Content.g.cs
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.cache
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location_MarkupCompile.lref
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\AdvSettings.baml
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.g.resources
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.exe
+S:\DanFewster_Networking_and_Interface_ACW\location\location\obj\Debug\location.pdb
